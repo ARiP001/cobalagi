@@ -10,5 +10,6 @@ int main(){
     hasil = a + b;
     cout << "Hasilnya adalah : "<< hasil << endl; 
 
+    string nama = "Arif";
     return 0;
 }
