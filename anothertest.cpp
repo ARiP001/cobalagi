@@ -11,5 +11,6 @@ int main(){
     cout << "Hasilnya adalah : "<< hasil << endl; 
 
     string nama = "Arif";
+    cout << "Nama saya adalah "<< nama<<endl;
     return 0;
 }
